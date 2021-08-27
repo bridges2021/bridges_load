@@ -1,7 +1,7 @@
 # bridges_load
 ## Installation
 1. Add this lines to pubspec.yaml
-```dart
+```yaml
 bridges_load:
   git:
     url: https://github.com/bridges2021/bridges_load.git
